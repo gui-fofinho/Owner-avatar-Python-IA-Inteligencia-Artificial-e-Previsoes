@@ -37,7 +37,7 @@ Este projeto utiliza Python, Machine Learning e Streamlit para prever o score de
 - **Tipo de Crédito**: Variedade de produtos de crédito que o cliente possui
 - **Comportamento de Pagamento**: Histórico de pagamentos do cliente
 
-<<<<<<< HEAD
+
 
 Projeto desenvolvido no curso Hashtag Treinamentos.
 
