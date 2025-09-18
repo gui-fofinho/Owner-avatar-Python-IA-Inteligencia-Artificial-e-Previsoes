@@ -42,4 +42,4 @@ Este projeto utiliza Python, Machine Learning e Streamlit para prever o score de
 Projeto desenvolvido no curso Hashtag Treinamentos.
 =======
 Projeto desenvolvido no curso Hashtag Treinamentos.
->>>>>>> c8b1d330c0cab859b5f265c7d7ba9d194733590d
+
