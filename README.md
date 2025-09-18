@@ -43,3 +43,6 @@ Projeto desenvolvido no curso Hashtag Treinamentos.
 =======
 Projeto desenvolvido no curso Hashtag Treinamentos.
 
+## Para acessar o arquivo pela navegador diretamente, basta clicar no link abaixo 
+Você pode acessar o app rodando online [clicando aqui] (https://owner-avatar-python-ia-inteligencia-artificial-e-previsoes-6y3.streamlit.app/) 
+
